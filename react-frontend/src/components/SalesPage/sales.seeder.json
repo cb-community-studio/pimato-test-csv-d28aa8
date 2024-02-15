@@ -1,0 +1,14 @@
+[
+    {
+        "Transaction ID": "sample",
+        "Date": "sample",
+        "Time": "sample",
+        "Register/Cashier ID": "sample",
+        "Customer ID": "sample",
+        "Items Sold": "sample",
+        "Total Sale Amount": "sample",
+        "Discounts": "sample",
+        "Taxes": "sample",
+        "Net Sale Amount": "sample"
+    }
+]
